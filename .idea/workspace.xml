@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a87b1da-3b4c-4d3c-9e3c-600d9ebc490f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projectspring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projectspring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/maxsanttos/course/CourseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/maxsanttos/course/CourseApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a87b1da-3b4c-4d3c-9e3c-600d9ebc490f" name="Changes" comment="testes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,14 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/max/Documentos/Learning-Java/aula21/projectspring&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/max/Documentos/Learning-Java/aula21/projectspring",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +52,47 @@
       <option name="presentableId" value="Default" />
       <updated>1673542682926</updated>
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1673543820957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673543820957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updates">
+      <created>1673543887876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673543887876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updates">
+      <created>1673543910382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673543910382</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testes">
+      <created>1673543951167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673543951168</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testes">
+      <created>1673544040454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544040454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <MESSAGE value="testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="testes" />
   </component>
 </project>
