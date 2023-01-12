@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a87b1da-3b4c-4d3c-9e3c-600d9ebc490f" name="Changes" comment="testes" />
+    <list default="true" id="6a87b1da-3b4c-4d3c-9e3c-600d9ebc490f" name="Changes" comment="adcionando dependencia do jpa e o banco em memoria h2">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/maxsanttos/course/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/maxsanttos/course/entities/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +36,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2KEbRaI3aa3u7dtQC90DM6PWrsV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,8 +47,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/max/Documentos/Learning-Java/aula21/projectspring",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
@@ -94,12 +105,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673544486905</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adcionando dependencia do jpa e o banco em memoria h2">
+      <created>1673544807157</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544807157</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
     <MESSAGE value="testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="testes" />
+    <MESSAGE value="adcionando dependencia do jpa e o banco em memoria h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adcionando dependencia do jpa e o banco em memoria h2" />
   </component>
 </project>
