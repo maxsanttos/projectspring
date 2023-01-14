@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CourseApplication<projectspring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.github.maxsanttos.course.CourseApplication",
+            "projectName": "projectspring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
