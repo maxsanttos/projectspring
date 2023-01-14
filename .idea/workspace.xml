@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a87b1da-3b4c-4d3c-9e3c-600d9ebc490f" name="Changes" comment="adcionando os properties">
+      <change beforePath="$PROJECT_DIR$/.idea/projectspring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projectspring.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
