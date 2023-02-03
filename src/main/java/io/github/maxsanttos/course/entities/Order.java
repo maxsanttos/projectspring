@@ -30,7 +30,7 @@ public class Order implements Serializable {
     private User client;
 
 
-    public Order() {}
+    public Order(Object object, Instant instant, User u1) {}
 
     public Order(long id, Instant moment, User client) {
         this.id = id;
@@ -68,10 +68,9 @@ public class Order implements Serializable {
     public boolean equals(Object o) {
         if (o == this)
             return true;
-        if (!(o instanceof Order)) {
+        if (!(o instanceof Order order)) {
             return false;
         }
-        Order order = (Order) o;
         return id == order.id;
     }
 

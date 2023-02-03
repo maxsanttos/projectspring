@@ -6,7 +6,5 @@ import io.github.maxsanttos.course.entities.Order;
 
 
 public interface OrderRepository extends JpaRepository<Order,Long>{
-    
-    
 
 }
