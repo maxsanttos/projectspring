@@ -3,6 +3,7 @@ package io.github.maxsanttos.course.entities;
 
 
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 import java.io.Serial;
@@ -26,6 +27,7 @@ public class User implements Serializable {
     private String phone;
     private String password;
 
+    //@JsonIgnore
     @OneToMany(mappedBy = "client")
     private List<Order> ordes = new ArrayList<>();
 
@@ -78,7 +80,7 @@ public class User implements Serializable {
     public void setPassword(String password) {
         this.password = password;
     }
-    
+
     public List<Order> getOrdes() {
         return ordes;
     }
